@@ -1,0 +1,26 @@
+.adding_machine {
+    border: solid black;
+    height: 600px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: sans-serif;
+  }
+  
+  input {
+    border-radius: 10px;
+    text-align: center;
+    font-size: 15pt;
+    width: 100px;
+  }
+  
+  .sum {
+    font-size: 20pt;
+  }
+  
+  button {
+    cursor: pointer;
+    border-radius: 8px;
+    border: solid 1px;
+    padding: 5px 10px;
+  }
